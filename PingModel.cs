@@ -9,6 +9,7 @@ namespace homeAsistant
     public class PingModel
     {
         public string address { get; set; }
+        public string hostName { get; set; }
         public long roundtripTime { get; set; }
         public int ttl { get; set; }
         public bool dontFragment { get; set; }

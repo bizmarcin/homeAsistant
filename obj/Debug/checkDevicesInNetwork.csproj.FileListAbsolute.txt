@@ -1,0 +1,10 @@
+C:\Users\bizma\source\repos\homeAsistant\homeAsistant\bin\Debug\homeAsistant.exe.config
+C:\Users\bizma\source\repos\homeAsistant\homeAsistant\bin\Debug\homeAsistant.exe
+C:\Users\bizma\source\repos\homeAsistant\homeAsistant\bin\Debug\homeAsistant.pdb
+C:\Users\bizma\source\repos\homeAsistant\homeAsistant\obj\Debug\checkDevicesInNetwork.csprojAssemblyReference.cache
+C:\Users\bizma\source\repos\homeAsistant\homeAsistant\obj\Debug\homeAsistant.Form1.resources
+C:\Users\bizma\source\repos\homeAsistant\homeAsistant\obj\Debug\homeAsistant.Properties.Resources.resources
+C:\Users\bizma\source\repos\homeAsistant\homeAsistant\obj\Debug\checkDevicesInNetwork.csproj.GenerateResource.cache
+C:\Users\bizma\source\repos\homeAsistant\homeAsistant\obj\Debug\checkDevicesInNetwork.csproj.CoreCompileInputs.cache
+C:\Users\bizma\source\repos\homeAsistant\homeAsistant\obj\Debug\homeAsistant.exe
+C:\Users\bizma\source\repos\homeAsistant\homeAsistant\obj\Debug\homeAsistant.pdb
